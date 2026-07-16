@@ -6,8 +6,6 @@ Interactive Excel dashboard built to analyze sales, profitability, product perfo
 
 ![Dashboard Preview](https://github.com/areejfathy17/sales-dashboard-excel/blob/main/Sales%20Dashboard.png)
 
-🔗 **Interactive Dashboard:** [View Dashboard](ضع_اللينك_هنا)
-
 ### Dashboard Highlights
 - Branch profitability analysis (Profit Margin %)
 - Sales trend analysis by year
