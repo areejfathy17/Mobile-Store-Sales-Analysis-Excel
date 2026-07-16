@@ -1,35 +1,26 @@
-# 📊 Sales Performance Analysis of Mobile Devices by Product Class
+# 📊Egyptian Mobile Store Sales Analysis
 
-This project uncover **profitability trends**, **regional performance**, and **class-level insights** (Smartphones vs Tablets) to support better decision-making. 
----
-## 🔹 Dashboard 1: Branch Performance Overview
+Interactive Excel dashboard built to analyze sales, profitability, product performance, and branch efficiency across multiple regions.
 
-### ✅ This dashboard helps answer:
-- Which branches are generating the most profit?  
-- What are the top-performing product classes per branch?  
-- How do quarterly sales vary across regions?
+## Dashboard Preview
 
-### 📌 Includes:
-- Total Profit and Sales KPIs  
-- Profit by Branch  
-- Top Products by Class  
-- Sales Trends by Quarter & Region  
+![Dashboard Preview](https://github.com/areejfathy17/sales-dashboard-excel/blob/main/Sales%20Dashboard.png)
 
----
+🔗 **Interactive Dashboard:** [View Dashboard](ضع_اللينك_هنا)
 
-## 🔹 Dashboard 2: Class & Segment Focus
+### Dashboard Highlights
+- Branch profitability analysis (Profit Margin %)
+- Sales trend analysis by year
+- Top-performing products identification
+- Segment-wise profit comparison
+- Interactive business filtering
 
-### ✅ This dashboard helps answer:
-- How do Smartphones compare to Tablets in terms of sales and profit?  
-- What are the top-selling products overall?  
-- How do regional sales behave over time?
+### KPIs Tracked
+- Total Sales
+- Total Profit
+- Total Quantity
+- Profit Margin %
+- Cost of Goods Sold (COGS)
 
-### 📌 Includes:
-- Sales split by Smartphones and Tablets  
-- Total Sales & Profit per Product  
-- Regional Sales Trends by Quarter  
-
----
-
-## 🛠 Tools & Technologies
-- Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Formulas)
+### Built With
+Excel • Power Query • Power Pivot • Pivot Tables • Pivot Charts • Data Visualization
